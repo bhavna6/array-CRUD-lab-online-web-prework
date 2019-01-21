@@ -22,11 +22,11 @@ def remove_element_from_start_of_array(array)
   frogs = common_animals.shift
 
 def retrieve_element_from_index(array, index_number)
-  
+  common_animals[1]
 end
 
 def retrieve_first_element_from_array(array)
-  
+  comm
 end
 
 def retrieve_last_element_from_array(array)
