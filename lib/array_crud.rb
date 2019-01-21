@@ -1,9 +1,9 @@
 def create_an_empty_array
-  common animals = [ ]
+  common_animals = [ ]
 end
 
 def create_an_array
-  common animals = ["dogs", "cats", "birds", "fish"]
+  common_animals = ["dogs", "cats", "birds", "fish"]
 end
 
 def add_element_to_end_of_array(array, element)
