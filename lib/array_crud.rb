@@ -26,9 +26,9 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  comm
+  common_animals[0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+  common_animals[-1]
 end
